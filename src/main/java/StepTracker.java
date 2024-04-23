@@ -2,7 +2,7 @@ import java.util.ArrayList;
 public class StepTracker
 {
  /* to be implemented here */
- private ArrayList <Intget> myDailySteps;
+ private ArrayList <Intger> myDailySteps;
  private int active;
 
  public StepTracker(int steps)
